@@ -6,5 +6,3 @@ Add a sentence:
 5. Today we practice fork and clone
 6. in github.
 7. Line 5,6,7 updated by manan.
-8. hy I am Faizan Ahmed 
-9. From Haripur
